@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72e4c5bd-1d77-4a4a-b300-e7f2433394d6" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/__MACOSX/._anipat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/contact_process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/gijgo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/reset.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/slicknav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/style.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/theme-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/theme-default.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/gijgo-material.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/gijgo-material.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/gijgo-material.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/gijgo-material.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/about/about_lft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/about/about_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/about/pet_care.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/adapt_icon/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/adapt_icon/1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/adapt_icon/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/adapt_icon/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/banner/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/banner/bradcam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/banner/contact_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/banner/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/banner/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/blog_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/blog_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/blog_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/blog_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/learn_about_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/single_blog_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/single_blog_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/single_blog_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/single_blog_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/single_blog_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/blog/slide_thumb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/comment/comment_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/comment/comment_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/comment/comment_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/disabled-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/disabled-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/g1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/g3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/g4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/g5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/g6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/g7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/primary-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/primary-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/success-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/elements/success-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/footer-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/gallery/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/gallery/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/gallery/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/gallery/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/offers/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/offers/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/offers/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/post_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/post/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/prising/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/service/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/service/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/service/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/service/service_icon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/service/service_icon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/service/service_icon_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/service/service_icon_bg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/team/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/team/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/team/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/img/testmonial/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/ajax-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/gijgo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/jquery.scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/jquery.slicknav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/mail-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/scrollIt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/vendor/modernizr-3.5.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/pet-doc.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_adapt.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_anipat.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_blog_part.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_bradcam.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_btn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_cutter_master.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_elements.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_gallery.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_make_apointment.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_pet_care.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_prising.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_section_title.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_service.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_slick-nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_testmonial.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/_varriable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/service.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/animalsite/templates/anipat/single-blog.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IlyaB204"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IlyaB204/AnimalSite.git",
+    "accountId": "0b264793-2e74-47ed-a803-db66cd14b5c2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2uAbOLdJxiIfe0beDJl5BIu2KYB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\AnimalSite\.venv\animalsite\templates" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72e4c5bd-1d77-4a4a-b300-e7f2433394d6" name="Changes" comment="" />
+      <created>1741694293626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741694293626</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1741695422884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741695422884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
