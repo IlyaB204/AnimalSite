@@ -118,9 +118,9 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = 'templates/anipat/static/'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'templates', 'anicat', 'static'),  # Путь к статическим файлам
+    os.path.join(BASE_DIR,  'templates', 'anipat', 'static'),  # Путь к статическим файлам
 ]
 
 # Default primary key field type
